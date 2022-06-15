@@ -1,4 +1,4 @@
-<h1> Alow, alow! Eu sou Wanessa Santos! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1> Alow, alow! Eu sou Wanessa Santos! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"></h1>
 
 - 🔥 Desenvolvedor Fullstack jr
 
