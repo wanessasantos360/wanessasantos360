@@ -51,8 +51,14 @@ src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasantos360&theme=dracula&hide_langs_below=1"/>
 </a> -->
 
-<a href="https://github.com/wanessasantos360" target="_blank">
+<!-- <a href="https://github.com/wanessasantos360" target="_blank">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=wanessasantos360&show_icons=true&theme=synthwave" alt="Wanessa's stats"/>
-</a>
+</a> -->
 <!-- <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasantos360&layout=compact&theme=synthwave" alt="Most Used Languages"/> -->
 
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wanessasantos360&theme=github)-->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wanessasantos360&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wanessasantos360&theme=github&utcOffset=8)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wanessasantos360&theme=github) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wanessasantos360&theme=github)-->
