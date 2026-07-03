@@ -46,44 +46,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-2c2c32?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
----
-
-## Foco Técnico Atual
-
-```python
-stack = {
-    "linguagem":    "Python",
-    "framework":    "FastAPI",
-    "ORM":          "SQLAlchemy",
-    "banco_dados":  "PostgreSQL",
-    "infra":        "Docker / Kubernetes",
-    "metodologia ágil":  "Scrum / Kanban"
-}
-```
-
----
-
-## 💼 Experiência
-
-**Ctrl+Play (CNA+)** — *Professora de Programação e Robótica*
-`Abr/2026 – Presente`
-> Ministro aulas para crianças de 7 a 9 anos (Ctrl Kids 1), com metodologia lúdica e mão na massa. As atividades desenvolvem raciocínio lógico, criatividade, autonomia e trabalho em equipe — introduzindo conceitos de jogos, apps e robótica de forma divertida.
-
-**SWITAB – Supporting Women in Technology Across Borders** — *Mentora de Graduação*
-`Mai/2026 – Presente`
-> Mentoria peer-to-peer no programa interinstitucional SWITAB, acompanhando mentorada com orientações sobre carreira, estudos e metas. Apoio na definição de metas SMART e promoção de networking na área de tecnologia.
-
-**Porto Digital** — *Residência Tecnológica | KickOff*
-`Set/2025 – Dez/2025`
-> Desenvolvimento do **Koaly**, protótipo de app educacional voltado à alfabetização infantil — transformando atividades em sala de aula em dados de aprendizagem e relatórios para professores e famílias. Atuei em pesquisa com usuários, definição de personas, fluxo do produto e prototipagem no Figma. O Squad 45 chegou à **final do DemoDay do Kick-off 2025.2**.
-
-**N.E.R.D. Soluções em Tecnologia** — *Desenvolvedora Mobile Low-Code*
-`Set/2021 – Abr/2022`
-> Desenvolvimento e prototipagem de app mobile com FlutterFlow e Firebase; participação em decisões de UX e novas funcionalidades em equipe multidisciplinar; análise de requisitos e otimização de processos internos.
-
-**Relâmpago Mult Serviços** — *Design Gráfico & Suporte Técnico*
-`Jul/2019 – Nov/2023`
-> Atendimento ao público, manutenção preventiva e corretiva de equipamentos, suporte técnico presencial. Criação de artes e materiais de comunicação visual (banners, flyers, cartões, adesivos) e impressão de materiais acadêmicos e corporativos.
 
 ---
 
