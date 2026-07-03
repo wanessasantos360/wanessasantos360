@@ -96,18 +96,6 @@ stack = {
 
 ---
 
-## ⚙️ GitHub Stats
-
-<div align="center">
-
-![Wanessa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanessasantos360&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasantos360&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
   <i>"Paixão por aprender e foco em gerar impacto positivo através da tecnologia."</i>
 </div>
