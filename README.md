@@ -46,16 +46,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-2c2c32?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
-
----
-
-## 🌟 Atividades Extracurriculares
-
-- 👥 **Representante de turma** e participante ativa em grupo de estudos de programação
-- 🛡️ Colaboração nos projetos **SafeWay**, **Koaly** e **MPB** (ideação, viabilidade e planejamento)
-- 🌐 Participante da **RFEC – Recife Front-End Community**
-- 🔬 Selecionada para o **Programa Futuras Cientistas – MCTI/CETENE** (STEM)
-
 ---
 
 <div align="center">
