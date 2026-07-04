@@ -8,14 +8,14 @@
 
 ## Sobre mim
 
-- 👩‍🏫 **Professora de Programação & Robótica** na Ctrl+Play (CNA+) — ensinando crianças de 7 a 9 anos com metodologia lúdica
-- 🤝 **Mentora de Graduação no SWITAB** — apoiando mulheres na tecnologia por meio de mentoria peer-to-peer
-- 🎓 Estudante de **Sistemas para Internet** – UNICAP (conclusão 2027.2)
+- 👩‍🏫 **Professora de Programação & Robótica** na [Ctrl+Play](https://ctrlplay.com.br/) (CNA+) — ensinando crianças de 7 a 9 anos com metodologia lúdica
+- 🤝 **Mentora de Graduação no [SWITAB](https://switab.vercel.app/)** — apoiando mulheres na tecnologia por meio de mentoria peer-to-peer
+- 🎓 Estudante de **[Sistemas para Internet** – UNICAP](https://portal.unicap.br/w/sistemas-para-internet) (conclusão 2027.2)
 - 🌱 Atualmente aprofundando conhecimentos em **Python, FastAPI, Docker e PostgreSQL**
-- 🏙️ Finalista no **DemoDay da Residência Tecnológica do Porto Digital** com o projeto **Koaly**
-- 🌐 Participante ativa da **RFEC – Recife Front-End Community**
-- 🔬 Selecionada para o **Programa Futuras Cientistas – MCTI/CETENE** (foco em STEM)
-- 💬 Posso conversar sobre **Python, HTML/CSS/JavaScript, Flutter e Git**
+- 🏙️ Finalista no **DemoDay da Residência Tecnológica do Porto Digital** com o projeto **[Koaly](https://youtu.be/rxc7r73SFl4)**
+- 🌐 Participante ativa da **[RFEC – Recife Front-End Community](https://www.rfec.com.br/)**
+- 🔬 Selecionada para o **[Programa Futuras Cientistas – MCTI/CETENE](https://www.gov.br/cetene/pt-br/areas-de-atuacao/futuras-cientistas-1/futuras-cientistas)** (foco em STEM)
+- 💬 Posso conversar sobre **Python, Machine Learning, Django, FastAPI, Flutter e Git**
 - 📍 Recife – PE
 
 ---
